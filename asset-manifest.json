@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.359c88cd.chunk.css",
+    "main.js": "/static/js/main.464701c9.chunk.js",
+    "main.js.map": "/static/js/main.464701c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.87434979.js",
+    "runtime-main.js.map": "/static/js/runtime-main.87434979.js.map",
+    "static/js/2.46e15e77.chunk.js": "/static/js/2.46e15e77.chunk.js",
+    "static/js/2.46e15e77.chunk.js.map": "/static/js/2.46e15e77.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.359c88cd.chunk.css.map": "/static/css/main.359c88cd.chunk.css.map",
+    "static/js/2.46e15e77.chunk.js.LICENSE.txt": "/static/js/2.46e15e77.chunk.js.LICENSE.txt",
+    "static/media/avatarImage.d37df039.jpeg": "/static/media/avatarImage.d37df039.jpeg",
+    "static/media/logo.12dc9435.png": "/static/media/logo.12dc9435.png",
+    "static/media/song1.6837009b.jpeg": "/static/media/song1.6837009b.jpeg",
+    "static/media/thumbnail.ee212a0d.jpg": "/static/media/thumbnail.ee212a0d.jpg",
+    "static/media/trending1.1a434249.png": "/static/media/trending1.1a434249.png",
+    "static/media/trending2.72160297.png": "/static/media/trending2.72160297.png",
+    "static/media/trending3.02791057.png": "/static/media/trending3.02791057.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87434979.js",
+    "static/js/2.46e15e77.chunk.js",
+    "static/css/main.359c88cd.chunk.css",
+    "static/js/main.464701c9.chunk.js"
+  ]
+}
