@@ -1,0 +1,32 @@
+.metrics {
+  background-color: rgb(227, 231, 252);
+  padding: 0 2rem;
+  @include getNavbarStyles;
+  span {
+    font-weight: 700;
+    color: rgb(109, 109, 109);
+  }
+
+  .grid-one {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 1rem;
+    height: 40%;
+    .top__card {
+      @include getCardStyles;
+    }
+    @include getMonthlyFollowersStyles;
+    margin-bottom: 1rem;
+  }
+
+  .grid-two {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 1rem;
+    height: 40%;
+
+    @include getTrendingTracksStyles;
+    @include getTrendingUsersStyles;
+    @include getUserActivityStyles;
+  }
+}

@@ -1,0 +1,10 @@
+@mixin getMonthlyFollowersStyles {
+  .music__metric {
+    @include getCardStyles;
+    &__info {
+      display: flex;
+      justify-content: space-between;
+      @include getCardIconStyle;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+@mixin getUserActivityStyles {
+  .user__activity {
+    @include getCardStyles;
+    &__info {
+      margin-bottom: 1rem;
+      display: flex;
+      justify-content: space-between;
+      @include getCardIconStyle;
+    }
+  }
+}

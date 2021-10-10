@@ -1,0 +1,12 @@
+@mixin getCardStyles {
+  background-color: white;
+  border-radius: 0.4rem;
+  padding: 1rem;
+  transition: 0.3s ease-in-out;
+  &:hover {
+    transform: translateX(4px);
+    transform: translateY(-4px);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px 25px,
+      rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+  }
+}

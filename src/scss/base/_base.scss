@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: "Quicksand", sans-serif;
+  .dashboard {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 20% 80%;
+  }
+}
